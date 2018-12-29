@@ -1,0 +1,9 @@
+{
+  "name": "nodeLearning",
+  "version": "1.0.0",
+  "description": "learning node from scratch",
+  "main": "index.js",
+  "repository": "https://github.com/JingLMalan/nodeLearning.git",
+  "author": "jing.l.mlana <jing.l.malan@gmail.com>",
+  "license": "MIT"
+}
