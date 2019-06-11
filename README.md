@@ -1,5 +1,7 @@
 ## Learning Node from scratch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JingLMalan/nodeLearning.svg)](https://greenkeeper.io/)
+
 通过代码一步一步来学习node.js
 
 
